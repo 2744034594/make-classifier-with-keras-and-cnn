@@ -3,7 +3,7 @@ _author_ = 'Yasin'
 _date_ = '2018-08-27 17:51'
 
 import os
-from PIL import Image
+from PIL import Imagemed 'PIL'
 import numpy as np
 from keras.utils import np_utils
 from keras.models import Sequential
